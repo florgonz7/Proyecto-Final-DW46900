@@ -1,0 +1,13 @@
+$black: #000000;
+$lila: #afd9af;
+
+.color-effect {
+  a {
+    color: $black;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+    color: $lila;
+  }
+}
